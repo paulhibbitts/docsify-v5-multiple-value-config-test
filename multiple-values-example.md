@@ -10,6 +10,17 @@
 
 # Multple Values Example
 
+```
+<style>
+.markdown-section .someCssClass {
+    border: 2px solid #CC0000;
+}
+.markdown-section .anotherCssClass {
+    border-radius: 8px;
+}
+</style>
+```
+
 ![logo](icon.svg ':class=someCssClass')
 
 ```md
